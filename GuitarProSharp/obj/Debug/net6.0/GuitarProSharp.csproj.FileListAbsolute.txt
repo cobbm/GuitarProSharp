@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\bin\Debug\net6.0\GuitarProSharp.exe
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\bin\Debug\net6.0\GuitarProSharp.deps.json
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\bin\Debug\net6.0\GuitarProSharp.runtimeconfig.json
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\bin\Debug\net6.0\GuitarProSharp.dll
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\bin\Debug\net6.0\GuitarProSharp.pdb
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.AssemblyInfo.cs
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.dll
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\refint\GuitarProSharp.dll
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.pdb
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\GuitarProSharp.genruntimeconfig.cache
+C:\Users\Michael\source\repos\GuitarProSharp\GuitarProSharp\obj\Debug\net6.0\ref\GuitarProSharp.dll
